@@ -1,0 +1,8 @@
+.DS_Store
+.vscode
+.prettierrc
+.editorconfig
+*.swp
+.nyc_output/
+coverage/
+node_modules/
